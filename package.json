@@ -1,0 +1,14 @@
+{
+  "name": "comand-line",
+  "version": "1.0.0",
+  "description": "Comand line App",
+  "main": "bin/index.js",
+  "bin": {
+    "task-master": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Geraldo Munhika",
+  "license": "ISC"
+}
